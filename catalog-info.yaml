@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ansible-rhdh-templates
+  annotations:
+    github.com/project-slug: michael-bang/ansible-rhdh-templates
+spec:
+  type: other
+  lifecycle: unknown
